@@ -21,7 +21,7 @@ https://github.com/AndrewHembrom/coin-flip-cli
 ### Option 1: Install from `.deb` package
 
 ```bash
-wget https://github.com/AndrewHembrom/coin-flip-cli/releases/download/v1.0/coin-flip-1.0.deb
+wget https://github.com/AndrewHembrom/coin-flip-cli/releases/download/v1.0.0/coin-flip-1.0.deb
 sudo dpkg -i coin-flip-1.0.deb
 ```
 
